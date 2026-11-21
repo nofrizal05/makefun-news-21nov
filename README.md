@@ -1,7 +1,13 @@
 # The World in One Day — 21 November 2026
 
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/nofrizal05/makefun-news-21nov/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/nofrizal05/makefun-news-21nov/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+
 Entry for the make.fun competition **news-image-20261121**: "Sum up 21
 November's world news in one image" ($100, entries close 2026-11-23 07:00 WIB).
+
+Bounty page: https://make.fun/bounty/news-image-20261121
 
 A hero-led newspaper front page (1024×1024) for Saturday, 21 November 2026:
 
@@ -23,6 +29,12 @@ copies the shipped `entry.png` to `MAKEFUN_OUTPUT_DIR` (default `/output`).
 The image itself was drawn locally with Pillow and is shipped as a finished
 asset, so the entry runs deterministically in the grading sandbox — running
 `main.py` twice writes byte-identical output.
+
+Run it:
+
+```sh
+python3 main.py
+```
 
 ## Files
 
